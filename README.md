@@ -12,3 +12,4 @@ An Arduino based light box with a night light mode and several animation modes.
 
 #LightBox V2
 
+![Alt text](https://github.com/jimmyadg/LightBox/blob/master/lightbox_v2/light%20off.png " V2 header")
